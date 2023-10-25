@@ -12,3 +12,8 @@ Feel free to ping me if you need more.
 
 Kind regards,
 Eloi
+
+
+Want to record you own: 
+- SideQuest: https://sidequestvr.com/setup-howto
+- ScrCpy : https://github.com/Genymobile/scrcpy/releases/tag/v2.1.1
